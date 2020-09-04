@@ -3,28 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://cordeirofilho.com.br/categories/</loc>
-    <lastmod>2020-06-19T23:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cordeirofilho.com.br/portfolio/hugo-portfolio-website/</loc>
-    <lastmod>2020-06-19T23:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cordeirofilho.com.br/categories/web-dev/</loc>
-    <lastmod>2020-06-19T23:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://cordeirofilho.com.br/blog/first-blog/</loc>
     <lastmod>2019-12-31T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cordeirofilho.com.br/about/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
@@ -43,8 +23,17 @@
   </url>
   
   <url>
+    <loc>https://cordeirofilho.com.br/about/</loc>
+    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://cordeirofilho.com.br/</loc>
     <lastmod>2019-10-26T15:26:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cordeirofilho.com.br/categories/</loc>
   </url>
   
   <url>
